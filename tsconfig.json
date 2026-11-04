@@ -10,6 +10,8 @@
         "./assets/*"
       ]
     }
+    , "moduleResolution": "bundler",
+    "module": "esnext"
   },
   "include": [
     "**/*.ts",
